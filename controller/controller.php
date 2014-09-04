@@ -14,7 +14,7 @@
 			{
 				$site = file($value);
 				$site++;
-				file_put_contents($value, $site);
+				file_put_contents('statistique.txt', $site);
 				return $site;
 			}
 	}
