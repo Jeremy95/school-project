@@ -7,8 +7,10 @@
 <body>
 	<h1>rattrapage dev </h1>	
 <?php
-
-	include_once("model/model.php");	
+	
+	include 'model/model.php';
+	include 'controller/controller.php';
+	include 'view/vue.php';
 
 ?>
 
