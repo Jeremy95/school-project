@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Tri des urls</title>
+	<title>Rattrapage Dev</title>
+	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-	<h1>rattrapage dev </h1>	
+	<h1>Rattrapage Dev </h1>	
 <?php
 	
 	include 'model/model.php';
